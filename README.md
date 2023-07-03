@@ -50,45 +50,45 @@
     <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-- 👨‍💻 **Associate Product Development Engineer**\
-📆 Aug 2021 - now\
-📍 **LifeWorks / TELUS Health** - London, United Kindgom
+- **Associate Product Development Engineer**\
+Aug 2021 - now\
+**LifeWorks / TELUS Health** - London, United Kindgom
 
 <p >
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-- 👨‍💻 **Senior Software Engineer**\
-📆 Jun 2019 - Aug 2021\
-📍 **LSEG / Refinitiv** - Nottingham, United Kindgom
+- **Senior Software Engineer**\
+Jun 2019 - Aug 2021\
+**LSEG / Refinitiv** - Nottingham, United Kindgom
 
 <p>
     <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=whitee" />
 </p>
 
-- 👨‍💻 **IT Developer**\
-📆 Nov 2017 - Jun 2019\
-📍 **SDC** - Copenhagen, Denmark
+- **IT Developer**\
+Nov 2017 - Jun 2019\
+**SDC** - Copenhagen, Denmark
 
 <p>
     <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=whitee" />
 </p>
 
-- 👨‍💻 **IT Developer**\
-📆 Apr 2016 - Nov 2017\
-📍 **SDC** - Copenhagen, Denmark
+- **IT Developer**\
+Apr 2016 - Nov 2017\
+**SDC** - Copenhagen, Denmark
 
 
 
 ## Education
 
-- 📖 **(P)BA Computer Science**\
-📆 2016 - 2017\
-📍 **KEA - Københavns Erverhvsakademi** - Copenhagen, Denmark
-
-- 📖 **AP Computer Science**\
-📆 2012 - 2015\
-📍 **Zealand Institute for Business and Technology** - Roskilde, Denmark
+- **(P)BA Computer Science**\
+2016 - 2017\
+**KEA - Københavns Erverhvsakademi** - Copenhagen, Denmark
+<br/>
+- **AP Computer Science**\
+2012 - 2015\
+**Zealand Institute for Business and Technology** - Roskilde, Denmark
 
 </details>
