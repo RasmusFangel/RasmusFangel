@@ -25,7 +25,7 @@
 </p> -->
 
 <p align='center'>
-  <b>Tech Stack</b><br/>
+  <b>Tech Stack</b><br/><br/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"><br/>
@@ -38,11 +38,12 @@
 </p>
 
 <p align='center'>
-<b>Certifications</b><br/>
+<b>Certifications</b><br/><br/>
     <img src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/aws-certified-developer-associate.png?raw=true">
 </p>
 <details>
     <summary> CV </summary>
+    
 ## Experience
 <p>
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
