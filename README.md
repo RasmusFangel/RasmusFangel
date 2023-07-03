@@ -87,6 +87,7 @@ Apr 2016 - Nov 2017\
 2016 - 2017\
 **KEA - Københavns Erverhvsakademi** - Copenhagen, Denmark
 <br/>
+
 - **AP Computer Science**\
 2012 - 2015\
 **Zealand Institute for Business and Technology** - Roskilde, Denmark
