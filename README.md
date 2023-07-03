@@ -41,9 +41,8 @@
 <b>Certifications</b><br/>
     <img src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/aws-certified-developer-associate.png?raw=true">
 </p>
-
----
-
+<details>
+    <summary> CV </summary>
 ## Experience
 <p>
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -91,5 +90,4 @@
 📆 2012 - 2015\
 📍 **Zealand Institute for Business and Technology** - Roskilde, Denmark
 
-
-  
+</details>
