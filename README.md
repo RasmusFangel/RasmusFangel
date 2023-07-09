@@ -3,9 +3,8 @@
 <h1 align='center'>
   <span style="font-family: Brush Script MT; font-size: 2em;">Rasmus Fangel Hansen</span>
 </h1>
-
 <p align='center'>
-  <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/python.png?raw=true" width="32"> <b>Python Developer | <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/aws.png?raw=true" height="32"> Cloud Engineer |  <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/arch.png?raw=true" height=32> Linux Enthusiast</b>
+  <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/python.png?raw=true" width="48"> <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/aws.png?raw=true" height="48"> <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/arch.png?raw=true" height=48>
 </p>
 
 <p align='center'>
