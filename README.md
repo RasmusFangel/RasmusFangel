@@ -23,8 +23,8 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RasmusFangel&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p> -->
 
-<p align='center'>
-  <b>Tech Stack</b><br/><br/>
+<h4 align='center'>
+  Tech Stack<br/><br/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"><br/>
@@ -34,12 +34,19 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-</p>
+</h4>
 
-<p align='center'>
-<b>Certifications</b><br/><br/>
+<h4 align='center'>
+Certifications<br/><br/>
     <img src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/aws-certified-developer-associate.png?raw=true">
-</p>
+</h4>
+
+<h4 align='center'>Articles
+
+![Rasmus Fangel Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=rasmusfangel&limit=3)
+</h4>
+
+
 <details>
     <summary> CV </summary>
     
@@ -92,3 +99,5 @@ Apr 2016 - Nov 2017\
 **Zealand Institute for Business and Technology** - Roskilde, Denmark
 
 </details>
+
+
