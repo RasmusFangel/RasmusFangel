@@ -41,12 +41,6 @@ Certifications<br/><br/>
     <img src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/aws-certified-developer-associate.png?raw=true">
 </h4>
 
-<h4 align='center'>Articles
-
-![Rasmus Fangel Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=rasmusfangel&limit=3&theme=transparent)
-</h4>
-
-
 <details>
     <summary> CV </summary>
     
