@@ -43,7 +43,7 @@ Certifications<br/><br/>
 
 <h4 align='center'>Articles
 
-![Rasmus Fangel Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=rasmusfangel&limit=3&theme=tokyonight)
+![Rasmus Fangel Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=rasmusfangel&limit=3&theme=transparent)
 </h4>
 
 
