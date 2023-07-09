@@ -43,7 +43,7 @@ Certifications<br/><br/>
 
 <h4 align='center'>Articles
 
-![Rasmus Fangel Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=rasmusfangel&limit=3)
+![Rasmus Fangel Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=rasmusfangel&limit=3&theme=transparent)
 </h4>
 
 
@@ -70,7 +70,7 @@ Jun 2019 - Aug 2021\
 **LSEG / Refinitiv** - Nottingham, United Kindgom
 
 <p>
-    <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=whitee" />
+    <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 - **IT Developer**\
@@ -78,7 +78,7 @@ Nov 2017 - Jun 2019\
 **SDC** - Copenhagen, Denmark
 
 <p>
-    <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=whitee" />
+    <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 - **IT Developer**\
