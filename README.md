@@ -52,7 +52,7 @@ Certifications<br/><br/>
 
 - **Software Engineer**\
 Aug 2023 - Now\
-**Beam Connectivity** - -, United Kingdom
+**<a href="https://www.beamconnectivity.com/"> Beam Connectivity</a>** - -, United Kingdom
   
 <p>
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
