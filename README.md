@@ -50,9 +50,18 @@ Certifications<br/><br/>
     <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
+- **Software Engineer**\
+Aug 2023 - now\
+**Beam Connectivity** - REMOTE, United Kingdom
+  
+<p>
+    <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
+
 - **Associate Product Development Engineer**\
-Aug 2021 - now\
-**LifeWorks / TELUS Health** - London, United Kindgom
+Aug 2021 - Aug 2023\
+**LifeWorks / TELUS Health** - London, United Kingdom
 
 <p >
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -61,7 +70,7 @@ Aug 2021 - now\
 
 - **Senior Software Engineer**\
 Jun 2019 - Aug 2021\
-**LSEG / Refinitiv** - Nottingham, United Kindgom
+**LSEG / Refinitiv** - Nottingham, United Kingdom
 
 <p>
     <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
