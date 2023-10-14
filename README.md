@@ -51,8 +51,8 @@ Certifications<br/><br/>
 </p>
 
 - **Software Engineer**\
-Aug 2023 - now\
-**Beam Connectivity** - REMOTE, United Kingdom
+Aug 2023 - Now\
+**Beam Connectivity** - -, United Kingdom
   
 <p>
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
