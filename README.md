@@ -52,7 +52,7 @@ Certifications<br/><br/>
 
 - **Software Engineer**\
 Aug 2023 - Now\
-**<a href="https://www.beamconnectivity.com/" target="_blank"> Beam Connectivity</a>** - United Kingdom
+**<a href="https://www.beamconnectivity.com/" target="_blank" rel="noopener noreferrer"> Beam Connectivity</a>** - United Kingdom
   
 <p>
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -61,7 +61,7 @@ Aug 2023 - Now\
 
 - **Associate Product Development Engineer**\
 Aug 2021 - Aug 2023\
-**<a href="https://wellbeing.lifeworks.com/" target="_blank">LifeWorks / TELUS Health</a>** - London, United Kingdom
+**<a href="https://wellbeing.lifeworks.com/" target="_blank" rel="noopener noreferrer">LifeWorks / TELUS Health</a>** - London, United Kingdom
 
 <p >
     <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -70,7 +70,7 @@ Aug 2021 - Aug 2023\
 
 - **Senior Software Engineer**\
 Jun 2019 - Aug 2021\
-**<a href="https://www.refinitiv.com/" target="_blank">LSEG / Refinitiv</a>** - Nottingham, United Kingdom
+**<a href="https://www.refinitiv.com/" target="_blank" rel="noopener noreferrer">LSEG / Refinitiv</a>** - Nottingham, United Kingdom
 
 <p>
     <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -78,7 +78,7 @@ Jun 2019 - Aug 2021\
 
 - **IT Developer**\
 Nov 2017 - Jun 2019\
-**<a href="https://www.sdc.dk/en/" target="_blank">SDC</a>** - Copenhagen, Denmark
+**<a href="https://www.sdc.dk/en/" target="_blank" rel="noopener noreferrer">SDC</a>** - Copenhagen, Denmark
 
 <p>
     <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -86,7 +86,7 @@ Nov 2017 - Jun 2019\
 
 - **IT Developer**\
 Apr 2016 - Nov 2017\
-**<a href="https://www.sdc.dk/en/" target="_blank">SDC</a>** - Copenhagen, Denmark
+**<a href="https://www.sdc.dk/en/" target="_blank" rel="noopener noreferrer">SDC</a>** - Copenhagen, Denmark
 
 
 
