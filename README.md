@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  <span style="font-family: Brush Script MT; font-size: 2em;">Rasmus Fangel Hansen</span>
+  <span style="font-family: Brush Script MT; font-size: 2em;">Rasmus Hansen-Smith</span>
 </h1>
 <p align='center'>
   <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/python.png?raw=true" width="48"> <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/aws.png?raw=true" height="48"> <img style="vertical-align:middle" src="https://github.com/RasmusFangel/RasmusFangel/blob/main/img/arch.png?raw=true" height=48>
@@ -26,12 +26,9 @@
 <h4 align='center'>
   Tech Stack<br/><br/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-8670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
-  <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </h4>
